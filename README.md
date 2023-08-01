@@ -30,14 +30,8 @@
 ### ⭐ GitHub Stats ⭐
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavishka-sulakshana&theme=transparent)
- <br>
 
-
-<br>
-
-### 🏆 GitHub Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kavishka-sulakshana)](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavishka-sulakshana&theme=transparent&exclude=HTML,CSS)
 
 <br>
 <h2>Connect with me </h2>
