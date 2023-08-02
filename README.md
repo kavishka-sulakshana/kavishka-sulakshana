@@ -31,7 +31,9 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavishka-sulakshana&theme=transparent)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavishka-sulakshana&theme=transparent&exclude=HTML,CSS)
+### ✨ GitHub Profile Trophies ✨
+
+![](https://github-profile-trophy.vercel.app/?username=kavishka-sulakshana&column=6)
 
 <br>
 <h2>Connect with me </h2>
