@@ -12,7 +12,7 @@
 
 ### ⭐ Languages and Skills ⭐
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=github,nodejs,html,css,sass,tailwind,js,react,nextjs,laravel,java,c,cpp,py,php,scala,md,firebase,redux,regex,vscode,mongodb,mysql,postgresql,vite,vercel,figma,ps,pr,ae" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,js,java,html,php,scala,r,octave,react,vue,nextjs,laravel,spring,express,md,css,sass,tailwind,threejs,redux,regex,vscode,mongodb,mysql,postgresql,firebase,docker,github,vercel,netlify,replit,azure,figma,ps,pr,ae" alt="skills logos" /> <br>
 </p>
 
 <br>
