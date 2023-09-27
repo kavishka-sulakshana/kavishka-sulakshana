@@ -3,7 +3,6 @@
 
 <p align='center'>💻 University of Colombo School of Computing 💻<br></p>
 <div>
-  <li> 📁 I’m currently working with <a href='https://github.com/PIKBITS'>PIKBITS</a></li>
   <li> 📡 Web developer </li>
   <li> 🔦 Interested in <i>machine learning</i> | <i>web dev.</i> | <i>Mobile app dev.</i> </li>
 </div>
