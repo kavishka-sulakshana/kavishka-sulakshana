@@ -1,5 +1,4 @@
-![251549114-4f00f6c8-1b95-40b1-8d83-2ddde17365d4](https://github.com/kavishka-sulakshana/kavishka-sulakshana/assets/73744585/e48527f1-7944-4816-89a3-24af8752fd91)
-
+![cover](https://github.com/kavishka-sulakshana/kavishka-sulakshana/assets/73744585/e9f2086a-247b-4eeb-ac49-b7c1f56dcdf1)
 
 <p align='center'>💻 University of Colombo School of Computing 💻<br></p>
 <div>
