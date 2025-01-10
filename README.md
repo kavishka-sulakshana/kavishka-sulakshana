@@ -1,6 +1,6 @@
 <div>
-  <li> 📡 Web developer </li>
-  <li> 🔦 Interested in <i>machine learning</i> | <i> Devops | Automations </i> | <i> Web / Mobile app dev.</i> </li>
+  <li> 📡 Web / Software Dev. </li>
+  <li> 🔦 Interested in <i> Devops | Automations </i> | <i>Machine learning</i> </li>
 </div>
 <br>
 
