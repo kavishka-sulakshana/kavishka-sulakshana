@@ -1,5 +1,3 @@
-![cover](https://github.com/kavishka-sulakshana/kavishka-sulakshana/assets/73744585/e9f2086a-247b-4eeb-ac49-b7c1f56dcdf1)
-
 <div>
   <li> 📡 Web developer </li>
   <li> 🔦 Interested in <i>machine learning</i> | <i> Devops | Automations </i> | <i> Web / Mobile app dev.</i> </li>
