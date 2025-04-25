@@ -7,7 +7,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkavishka-sulakshana&countColor=%23d9e3f0&theme=transparent&style=flat-square)
 ### ⭐ Languages and Skills ⭐
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,js,ts,java,html,php,scala,r,octave,react,vue,nextjs,nestjs,laravel,spring,express,md,css,sass,tailwind,mui,threejs,bash,redux,regex,vscode,mongodb,mysql,postgresql,firebase,docker,github,gitlab,vercel,vite,netlify,replit,azure,figma,ps,pr,ae" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,js,ts,java,html,php,scala,r,react,nextjs,nestjs,laravel,spring,express,fastapi,md,css,sass,tailwind,mui,notion,bash,redux,regex,vscode,discord,mongodb,mysql,postgresql,firebase,docker,github,gitlab,vercel,vite,netlify,aws,figma,terraform,ansible,nginx,debian" alt="skills logos" /> <br>
 </p>
 
 <br>
